@@ -1,0 +1,8 @@
+[submodule "otel-api-customers-go"]
+	path = otel-api-customers-go
+	url = git@github.com:noelchavezsimbron/otel-api-customers-go.git
+	branch = master
+[submodule "api-customers-go"]
+	path = otel-api-customers-go
+	url = git@github.com:noelchavezsimbron/otel-api-customers-go.git
+	branch = master
